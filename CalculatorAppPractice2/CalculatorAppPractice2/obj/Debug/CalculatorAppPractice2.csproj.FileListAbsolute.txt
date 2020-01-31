@@ -1,0 +1,19 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.CalculatorUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.pdb
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe.config
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.pdb
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csprojAssemblyReference.cache
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.CalculatorUi.resources
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.Properties.Resources.resources
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.GenerateResource.cache
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.CoreCompileInputs.cache
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.exe
+C:\ASP.NET_BITM\class lectures\Day13\Day13Class\calculator\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.pdb
